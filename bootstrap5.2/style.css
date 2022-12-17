@@ -1,0 +1,82 @@
+.nav-item{
+    padding: 10px;
+
+}
+.nav-link{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    transition: 0.5s;
+    border-top: none;
+}
+.nav-link:hover{
+    color: rgb(245, 240, 239);
+    background-color: rgb(227, 213, 15);
+    border-radius: 5px;
+}
+.h1{
+    margin-top: 200px;
+    border: 1px;
+    color: rgb(207, 235, 20);
+    font-family: serif;
+    border-radius: 10px 10px 10px 7px;
+}
+.h02{
+    color: rgb(23, 13, 216);
+    background-color: rgb(228, 175, 27);
+    border-radius: 5px;
+    font-family: serif;
+}
+.logo{
+    margin-right: 10px;
+    background-color: coral;
+}
+.lh-lg{
+    color: rgb(7, 15, 22);
+}
+#lh{
+    color: rgb(88, 41, 240);
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flexbox;
+  }
+  .fa:hover {
+    color: rgb(236, 244, 236);
+  }
+  
+  .fa-facebook {
+    background: #190be3;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-Youtube {
+    background-color: #f40a0a;
+    color: white;
+  }
+  .fa-instagram{
+    background: #f42525;
+    color: white;
+  }
+  .fa-telegram{
+    background: #0855f0;
+    color: white;
+  }
+  .h3{
+    text-align: center;
+    color: rgb(10, 143, 21);
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .btn{
+    color: rgb(78, 234, 255);
+    background-color: #0c09cc;
+    border: none;
+  }
